@@ -1,4 +1,5 @@
 # Osvaldo VALDIVIA
+<img align ="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/140751636?v=4">
 
 Welcome to my Portofolio. My name is Osvaldo and I am happy to see you here !
 
@@ -32,5 +33,9 @@ Since then, for me each dataset is an uncharted galaxy, waiting to be decoded so
 
 # Projects
 ## Project 1 - World Happiness Score
+
+For this project, I am mainly interested in conducting data exploration and analysis on the ...
+
+## Project 2 - Medical Appointment Analysis
 
 For this project, I am mainly interested in conducting data exploration and analysis on the ...
