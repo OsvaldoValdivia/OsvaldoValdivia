@@ -38,4 +38,4 @@ For this project, I am mainly interested in conducting data exploration and anal
 
 ## Project 2 - Medical Appointment Analysis
 
-For this project, I am mainly interested in conducting data exploration and analysis on the ...
+This project aims to understand why patients miss their medical appointments. Analyzing a dataset of over 110,000 appointments with 14 variables, the goal is to identify factors contributing to these no-shows. By using data analysis and predictive models, the project aims to help healthcare professionals reduce no-show rates by understanding patient behaviors and improving appointment scheduling.
