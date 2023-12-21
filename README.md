@@ -39,3 +39,11 @@ This project analyzes happiness scores from the Gallup World Poll (2015-2019) us
 ## Project 2 - Medical Appointment Analysis
 
 This project aims to understand why patients miss their medical appointments. Analyzing a dataset of over 110,000 appointments with 14 variables, the goal is to identify factors contributing to these no-shows. By using data analysis and predictive models, the project aims to help healthcare professionals reduce no-show rates by understanding patient behaviors and improving appointment scheduling.
+
+## Project 3 - Students summary
+
+Competition project
+
+## Project 4 - Job Satisfaction
+
+This project analyzes job satisfaction factors in European countries using 2018 Eurostat data. It investigates how metrics like working hours, income, remote work, and weekend work affect job satisfaction. Through Python and various visualizations like barplots, scatter plots, maps, and regression decision trees, it aims to reveal insights into job satisfaction dynamics across Europe.
