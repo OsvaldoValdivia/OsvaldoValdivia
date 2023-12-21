@@ -34,7 +34,7 @@ Since then, for me each dataset is an uncharted galaxy, waiting to be decoded so
 # Projects
 ## Project 1 - World Happiness Score
 
-For this project, I am mainly interested in conducting data exploration and analysis on the ...
+This project analyzes happiness scores from the Gallup World Poll (2015-2019) using the Cantril ladder scale (0-10). It visualizes and explores factors contributing to happiness across countries, including economic production, region, social support, life expectancy, freedom, absence of corruption, and generosity through interactive visualizations. The aim is to understand global happiness patterns during this period.
 
 ## Project 2 - Medical Appointment Analysis
 
