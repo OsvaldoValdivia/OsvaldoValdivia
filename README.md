@@ -47,3 +47,7 @@ Competition project
 ## Project 4 - Job Satisfaction
 
 This project analyzes job satisfaction factors in European countries using 2018 Eurostat data. It investigates how metrics like working hours, income, remote work, and weekend work affect job satisfaction. Through Python and various visualizations like barplots, scatter plots, maps, and regression decision trees, it aims to reveal insights into job satisfaction dynamics across Europe.
+
+## Project 5 - Airbnb Chatbot
+
+This project involves creating an automated Airbnb bot capable of answering location-specific inquiries. Implemented in a live environment using real data, the bot responds to questions about accommodations via WhatsApp using the official Meta API. It leverages Airbnb data to provide instant responses regarding various aspects of a location, enhancing user interaction and engagement on the messaging platform.
